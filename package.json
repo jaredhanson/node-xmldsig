@@ -27,7 +27,6 @@
   "main": "./lib",
   "dependencies": {
     "xmldom": "0.1.x",
-    "xpath": "0.0.x",
     "xml-crypto": "0.0.x"
   },
   "devDependencies": {
